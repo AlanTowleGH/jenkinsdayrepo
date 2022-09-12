@@ -38,6 +38,5 @@ jobs:
       - name: List current directory contents
         run: ls -la
       
-      #Runs script.sh file
-      #  - name: Run a one-line script
-      #  run: bash ./script.sh
+      - name: Run sctipt.sh file
+        run: bash ./script.sh
