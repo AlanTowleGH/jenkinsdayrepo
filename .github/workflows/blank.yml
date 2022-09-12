@@ -37,5 +37,6 @@ jobs:
           
       - name: List current directory contents
         run: ls -la
-      #Run script.sh file
+      
+      #Runs script.sh file
         run: bash ./script.sh
