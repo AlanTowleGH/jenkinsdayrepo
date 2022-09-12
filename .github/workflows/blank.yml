@@ -38,5 +38,5 @@ jobs:
       - name: List current directory contents
         run: ls -la
       
-      - name: Run sctipt.sh file
+      - name: Run script.sh file
         run: bash ./script.sh
